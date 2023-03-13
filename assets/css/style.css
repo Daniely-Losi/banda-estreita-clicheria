@@ -1,0 +1,25 @@
+img {
+}
+
+#conhecendo-flexografia {
+  height: 100%;
+  width: 100%;
+}
+
+#img-brasil-america {
+  width: 80%;
+  height: 75%;
+}
+
+#nav {
+  /*color: #fff;*/
+  color: green !important;
+  /*position: fixed;*/
+  width: 100%;
+  /*border: inset;*/
+}
+
+@media (max-width: 767px)
+teste{
+    margin-top: 100px;
+}
